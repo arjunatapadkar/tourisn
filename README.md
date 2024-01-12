@@ -27,27 +27,27 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/your-username/tourism-explorer.git
    cd tourism-explorer
 
-Install dependencies:
+2. Install dependencies:
+    ```bash
+        npm install
+        # or
+        yarn
 
-npm install
-# or
-yarn
-
-Run the development server:
-
-npm start
-# or
-yarn start
+3. Run the development server:
+    ```bash
+        npm start
+        # or
+        yarn start
 
 
 
 The website will be accessible at http://localhost:3000 in your browser.
 
-Technologies Used
-React: A JavaScript library for building user interfaces.
-Tailwind CSS: A utility-first CSS framework for building modern designs.
+## Technologies Used
+ - React: A JavaScript library for building user interfaces.
+ - Tailwind CSS: A utility-first CSS framework for building modern designs.
 
-Features
-Interactive Interface: Engage with a user-friendly platform designed for seamless navigation.
-Destination Discovery: Explore diverse travel destinations with rich visuals and detailed information.
-Responsive Design: Enjoy a consistent and optimal viewing experience across various devices.
+## Features
+ - Interactive Interface: Engage with a user-friendly platform designed for seamless navigation.
+ - Destination Discovery: Explore diverse travel destinations with rich visuals and detailed information.
+ - Responsive Design: Enjoy a consistent and optimal viewing experience across various devices.
