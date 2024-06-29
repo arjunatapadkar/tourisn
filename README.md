@@ -2,6 +2,9 @@
 
 Welcome to Tourism Explorer, your ultimate destination for discovering breathtaking travel experiences! This dynamic website, crafted with React and styled with Tailwind CSS, invites users to embark on a journey of exploration and inspiration.
 
+![Screenshot (182)](https://github.com/arjunatapadkar/tourism/assets/99797400/4b4becbb-9df1-4d1f-80ac-2b6327f79fb8)
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
